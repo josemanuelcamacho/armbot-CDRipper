@@ -1,0 +1,53 @@
+CENTERED DOWN CLAW CLOSED
+(95, 10, 120, 170, 90)
+
+CENTERED DOWN CLAW OPEN (1st know range is 85-95)
+(95, 10, 120, 170, 90)
+
+CENTERED UP CLAW CLOSED
+(90, 10, 120, 140, 90)
+
+CENTERED UP CLAW OPEN
+(85, 10, 120, 140, 90)
+
+###############################
+
+LEFT UP CLAW OPEN
+(85, 10, 120, 140, 170)
+
+LEFT UP CLAW CLOSED
+(95, 10, 120, 140, 170)
+
+LEFT DOWN CLAW OPEN
+(85, 10, 120, 170, 170)
+
+LEFT DOWN CLAW CLOSED
+(95, 10, 120, 170, 170)
+
+###############################
+
+RIGHT UP CLAW OPEN
+(85, 10, 120, 140, 3)
+
+RIGHT UP CLAW CLOSED
+(95, 10, 120, 140, 3)
+
+RIGHT DOWN CLAW OPEN
+(85, 10, 120, 170, 3)
+
+RIGHT DOWN CLAW CLOSED
+(95, 10, 120, 170, 3)
+
+
+
+###############################
+Actions 1: (100, 5, 148, 112, 25)
+Actions 2: (100, 2, 138, 137, 27)
+Actions 3: (100, 2, 138, 155, 27)
+Actions 4: (100, 2, 138, 155, 27)
+
+Actions 5: (8, 0, 126, 140, 27)
+Actions 6: (8, 0, 112, 125, 27)
+Actions 6: (8, 0, 112, 125, 90)
+
+
